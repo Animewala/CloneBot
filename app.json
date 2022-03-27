@@ -1,7 +1,7 @@
 {
 	"name": "CloneBot",
 	"description": "CloneBot",
-	"repository": "https://github.com/MsGsuite/CloneBot",
+	"repository": "https://github.com/Animewala/CloneBot",
 	"keywords": ["Gclone","TG"],
 	"env": {
 		"BOT_TOKEN": {
